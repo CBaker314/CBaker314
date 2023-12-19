@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CBaker314
 - 👀 I’m interested in python
-- 🌱 I’m currently learning to work on a blender
+- 🌱 I’m currently learning to work on the "blender 3d" application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
